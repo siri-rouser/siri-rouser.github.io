@@ -39,9 +39,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=WMuOyWsAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Handle
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yuqiang-lin-084213213"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -136,7 +136,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # Social media default site image
 facebook:
   username               :
   app_id                 :
