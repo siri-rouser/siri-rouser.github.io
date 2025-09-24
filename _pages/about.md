@@ -12,7 +12,7 @@ I'm a PhD student in [AAPS CDT](https://www.aaps-cdt.ac.uk/) at the [University 
 News
 ======
 
-**-- Sep 2025**  I am going to start a three month academic visiting at the University of Washington.  
+**-- Sep 2025**  I am going to start a three month academic visiting in [the Starlab](http://www.uwstarlab.org/) at the University of Washington.  
 **-- Oct 2023**  I start my PhD at University of Bath.  
 
 Education
