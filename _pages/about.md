@@ -50,7 +50,7 @@ Education
 Publications
 ======
 ## 2025
-[**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**](https://arxiv.org/abs/2511.13904)
+[**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**](https://arxiv.org/abs/2511.13904)  
 **Yuqiang Lin**, Sam Lockyer, Florian Stanek, Markus Zarbock, Adrian Evans, Wenbin Li, Nic Zhang.
 arXiv preprint (arXiv:2511.13904), 2025.
 
@@ -78,6 +78,6 @@ Bo Hu, Jiahui Chen, **Yuqiang Lin**, Senlin Tan.
 Senlin Tan, **Yuqiang Lin**, Bo Hu, Jiahui Chen.  
 *SAE Technical Paper* 2022-01-7064, 2022.  
 
-[**基于实测载荷谱的电驱动总成差速器壳体疲劳寿命研究**](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JXQD202301028&uniplatform=OVERSEA&v=TItaVexqLnJgpj3kCj5t2wqpfdvqiR5R1wAQpuSFD23XeryGTsgg5RGIf4vvuY8M)
+[**基于实测载荷谱的电驱动总成差速器壳体疲劳寿命研究**](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JXQD202301028&uniplatform=OVERSEA&v=TItaVexqLnJgpj3kCj5t2wqpfdvqiR5R1wAQpuSFD23XeryGTsgg5RGIf4vvuY8M)  
 Zou Xihong, Gou Linlin, Xiong Feng, Wang Chao, Jiang Mingcong, **Lin Yuqiang**, Wang Wanying.
 *机械强度*, 2023, 45(01): 228–236.
