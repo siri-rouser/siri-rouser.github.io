@@ -50,10 +50,15 @@ Education
 Publications
 ======
 ## 2025
+[**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**](https://arxiv.org/abs/2511.13904)
+**Yuqiang Lin**, Sam Lockyer, Florian Stanek, Markus Zarbock, Adrian Evans, Wenbin Li, Nic Zhang.
+arXiv preprint (arXiv:2511.13904), 2025.
 
 [**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**](https://arxiv.org/abs/2507.08729)  
 **Yuqiang Lin**, Sam Lockyer, Mingxuan Sui, Li Gan, Florian Stanek, Markus Zarbock, Wenbin Li, Adrian Evans, Nic Zhang.  
 *arXiv preprint* (arXiv:2507.08729), 2025.  
+
+## 2024
 
 [**Ablation study for multicamera vehicle tracking using CityFlow dataset**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13517/135170V/Ablation-study-for-multicamera-vehicle-tracking-using-CityFlow-dataset/10.1117/12.3055212.full)  
 **Yuqiang Lin**, Sam Lockyer, Adrian Evans, Markus Zarbock, Nic Zhang.  
@@ -72,3 +77,7 @@ Bo Hu, Jiahui Chen, **Yuqiang Lin**, Senlin Tan.
 [**A Hierarchical Model Predictive Control Based Connected Series Hybrid Electric Vehicle Energy Management Considering Speed Planning**](https://www.sae.org/publications/technical-papers/content/2022-01-7064/)  
 Senlin Tan, **Yuqiang Lin**, Bo Hu, Jiahui Chen.  
 *SAE Technical Paper* 2022-01-7064, 2022.  
+
+[**基于实测载荷谱的电驱动总成差速器壳体疲劳寿命研究**](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=JXQD202301028&uniplatform=OVERSEA&v=TItaVexqLnJgpj3kCj5t2wqpfdvqiR5R1wAQpuSFD23XeryGTsgg5RGIf4vvuY8M)
+Zou Xihong, Gou Linlin, Xiong Feng, Wang Chao, Jiang Mingcong, **Lin Yuqiang**, Wang Wanying.
+*机械强度*, 2023, 45(01): 228–236.
