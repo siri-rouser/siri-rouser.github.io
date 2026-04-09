@@ -49,6 +49,12 @@ Education
 
 Publications
 ======
+## 2026
+
+[**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**](https://arxiv.org/abs/2603.19098)  
+**Yuqiang Lin**, Kehua Chen, Sam Lockyer, Arjun Yadav, Mingxuan Sui, Shucheng Zhang, Yan Shi, Bingzhang Wang, Yuang Zhang, Markus Zarbock, Florain Stanek, Adrian Evans, Wenbin Li, Yinhai Wang, Nic Zhang.  
+*arXiv preprint* (arXiv:2603.19098), 2026.
+
 ## 2025
 [**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**](https://arxiv.org/abs/2511.13904)  
 **Yuqiang Lin**, Sam Lockyer, Florian Stanek, Markus Zarbock, Adrian Evans, Wenbin Li, Nic Zhang.
