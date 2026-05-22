@@ -56,9 +56,9 @@ Publications
 *arXiv preprint* (arXiv:2603.19098), 2026.
 
 ## 2025
-[**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**](https://arxiv.org/abs/2511.13904)  
-**Yuqiang Lin**, Sam Lockyer, Florian Stanek, Markus Zarbock, Adrian Evans, Wenbin Li, Nic Zhang.
-arXiv preprint (arXiv:2511.13904), 2025.
+[**Edge Assisted Multi-Camera Vehicle Tracking Framework for Real-Time and Scalable Deployment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6626356)  
+**Yuqiang Lin**, Sam Lockyer, Shucheng Zhang, Florian Stanek, Markus Zarbock, Adrian Evans, Wenbin Li, Yinhai Wang, Nic Zhang.
+SSRN Preprint, 2026.
 
 [**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**](https://arxiv.org/abs/2507.08729)  
 **Yuqiang Lin**, Sam Lockyer, Mingxuan Sui, Li Gan, Florian Stanek, Markus Zarbock, Wenbin Li, Adrian Evans, Nic Zhang.  
