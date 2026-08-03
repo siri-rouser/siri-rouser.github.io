@@ -51,6 +51,10 @@ Publications
 ======
 ## 2026
 
+**TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding**<br>
+**Yuqiang Lin**, Yan Shi, Sam Lockyer, Harish Tayyar Madabushi, Adrian Evans, Wenbin Li, Yinhai Wang, Nic Zhang.<br>
+*Accepted at the AI City Challenge Workshop at ECCV 2026.*
+
 [**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**](https://arxiv.org/abs/2603.19098)  
 **Yuqiang Lin**, Kehua Chen, Sam Lockyer, Arjun Yadav, Mingxuan Sui, Shucheng Zhang, Yan Shi, Bingzhang Wang, Yuang Zhang, Markus Zarbock, Florain Stanek, Adrian Evans, Wenbin Li, Yinhai Wang, Nic Zhang.  
 *arXiv preprint* (arXiv:2603.19098), 2026.
