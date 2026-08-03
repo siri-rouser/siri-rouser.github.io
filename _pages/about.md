@@ -11,7 +11,7 @@ I'm a PhD student in [AAPS CDT](https://www.aaps-cdt.ac.uk/) at the [University 
 
 News
 ======
-**-- Aug 2026** Two papers were accepted for the AI City Challenge Workshop at ECCV 2026. TAU-Agent also secured the 2nd position in AI City Challenge Track 3.
+**-- Aug 2026** Two papers were accepted for the AI City Challenge Workshop at ECCV 2026. TAU-Agent also secured the 2nd position in AI City Challenge Track 3.  
 **-- Sep 2025**  I am going to start a three month academic visiting in [the Starlab](http://www.uwstarlab.org/) at the University of Washington.  
 **-- Oct 2023**  I start my PhD at University of Bath.  
 
