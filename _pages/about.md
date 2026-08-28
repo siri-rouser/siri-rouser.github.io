@@ -57,7 +57,7 @@ Publications
 
 [**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**](https://arxiv.org/abs/2603.19098)  
 **Yuqiang Lin**, Kehua Chen, Sam Lockyer, Arjun Yadav, Mingxuan Sui, Shucheng Zhang, Yan Shi, Bingzhang Wang, Yuang Zhang, Markus Zarbock, Florain Stanek, Adrian Evans, Wenbin Li, Yinhai Wang, Nic Zhang.  
-*arXiv preprint* (arXiv:2603.19098), 2026.
+*Accepted at the AI City Challenge Workshop at ECCV 2026.*
 
 ## 2025
 [**Edge Assisted Multi-Camera Vehicle Tracking Framework for Real-Time and Scalable Deployment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6626356)  
