@@ -15,6 +15,12 @@ News
 **-- Sep 2025**  I am going to start a three month academic visiting in [the Starlab](http://www.uwstarlab.org/) at the University of Washington.  
 **-- Oct 2023**  I start my PhD at University of Bath.  
 
+Talks
+======
+
+**-- Nov 2026** Invited talk at **Axis Communications**.<br>
+**Topic**: From Camera Streams to Traffic Intelligence -- Building a safer and smarter world with computer vision & AI<br>
+
 Education
 ======
 
@@ -34,12 +40,12 @@ Education
   </tr>
 
   <tr>
-    <td style="width:150px; height:150px; ertical-align:middle; border:none;">
+    <td style="width:150px; height:150px; vertical-align:middle; border:none;">
       <img src="/images/cqut.png" alt="Chongqing University of Technology" style="height:120px; object-fit:contain;">
     </td>
     <td style="border:none; padding-left:15px; font-size:16px;">
       <strong>BEng in Vehicle Engineering</strong> <em>Sep 2018 – Jun 2022</em><br>
-      - Graduated with GPA: <strong>89/100</strong>. <br>
+      - GPA: <strong>89/100</strong>. <br>
       - Awards: National Scholarship of China (2021). <br>
       - Final projects: Intelligent vehicle control and hybrid electric vehicle energy management.  
     </td>
